@@ -1,0 +1,87 @@
+/* file: styles.css */
+*{
+    padding: 0;
+    margin: 0;
+}
+h1{
+    padding: 20px;
+    font-family: arial;
+}
+h2{
+    font-size: 18px;
+    background-color: rgb(238, 238, 238);
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px;
+    color:black;
+}
+body{
+    background-color: #eee;
+    font-family: sans-serif;
+    text-align: center;
+    color:#333;
+}
+.image-container {
+    margin: auto;
+    padding: 30px;
+    background-color: #eee;
+    color: white
+}
+#main {
+margin: 30px 8px;
+padding: 15px;
+border-radius: 5px;
+background: #eee;
+}
+.image {
+    object-fit: center;
+    border-radius: 10px;
+    max-width: 100%;
+    display: block;
+    margin: auto;
+    height: auto;
+}
+image {
+    display: block;
+}
+.caption {
+    padding: 5px;
+    color:rgba(128, 128, 128, 0.468);
+}
+.life {
+    padding: 30px 70px;
+    max-width: 600px;
+    margin: 10px auto;
+    background-color: #eee;
+    color:black;
+    text-align: left;
+}
+.header-life {
+    font-size: 20px;
+    font-family: arial;
+    padding: 30px;
+    text-align: center;
+}
+
+.bold {
+    font-weight: bold;
+
+}
+li{
+    margin: 20px;
+}
+.quote {
+    margin: 30px 30px 5px;
+    font-style: italic;
+color: #333;
+}
+.quote-author {
+    text-indent: 30px
+}
+p{
+    color:rgb(51, 51, 51);
+}
+a{
+    font-size: 18px;
+    color:rgb(0, 105, 128);
+}
